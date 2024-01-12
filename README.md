@@ -4,4 +4,4 @@
 
 ![example1](https://github.com/alanshi/dev-tools/blob/main/docs/example1.jpg)
 
-![example1](https://github.com/alanshi/dev-tools/blob/main/docs/example2.jpg
+![example1](https://github.com/alanshi/dev-tools/blob/main/docs/example2.jpg)
